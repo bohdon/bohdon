@@ -17,3 +17,8 @@ I make open source tools for game development.
 - [Pymetanode](https://github.com/bohdon/maya-pymetanode) - A simple solution for storing python objects as data on a node in Maya.
 - [Pulse](https://github.com/bohdon/maya-pulse) - A rigging framework and toolkit for creating any type of character and prop.
 - [boScripts](https://github.com/bohdon/boScripts) - An older set of Maya tools for a variety of tasks.
+
+### Others
+
+- [Workspace](https://github.com/bohdon/workspace) - My personal git, shell, and other prefs for a consistent env across multiple computers. Includes AHK Window Mover.
+- [Dotfiles](https://github.com/bohdon/dotfiles) - Configuration files and examples for a variety of apps.
