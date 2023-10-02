@@ -21,4 +21,4 @@ I make open source tools for game development.
 ### Others
 
 - [Workspace](https://github.com/bohdon/workspace) - My personal git, shell, and other prefs for a consistent env across multiple computers. Includes AHK Window Mover.
-- [Dotfiles](https://github.com/bohdon/dotfiles) - Configuration files and examples for a variety of apps.
+- [Dotfiles](https://github.com/bohdon/dotfiles) - A collection of configuration and ignorefiles.
