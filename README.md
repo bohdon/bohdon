@@ -14,7 +14,7 @@ I make open source tools for game development.
 ### Maya Tools
 
 - [Workflow Tools](https://github.com/bohdon/maya-workflowtools) - A collection of tools for working faster in Maya. Includes RMB menu hook for extending right click menus.
-- [Pymetanode](https://github.com/bohdon/maya-pymetanode) - A simple solution for storing python objects as data on a node in Maya.
+- [Pymetanode](https://github.com/bohdon/maya-pymetanode) - A simple solution for storing python objects as data on nodes in Maya.
 - [Pulse](https://github.com/bohdon/maya-pulse) - A rigging framework and toolkit for creating any type of character and prop.
 - [boScripts](https://github.com/bohdon/boScripts) - An older set of Maya tools for a variety of tasks.
 
