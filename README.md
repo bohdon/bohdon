@@ -11,7 +11,7 @@ I make open source tools for game development.
 - [Utility AI Plugin](https://github.com/bohdon/UtilityAIPlugin) - AI decision making through modular utilities and scoring.
 - [WFC Plugin](https://github.com/bohdon/WFCPlugin) - Procedural content and level generation tools defined through constraints.
 
-> Also check out my lists in the [stars tab](https://github.com/bohdon?tab=stars) for more Unreal tools and plugins.
+> Also check out my [Unreal Engine List](https://github.com/stars/bohdon/lists/unreal-engine) for more tools and plugins.
 
 ### Maya Tools
 
