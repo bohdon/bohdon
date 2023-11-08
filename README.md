@@ -10,7 +10,7 @@ I make open source tools for game development.
 - [Extended Gameplay Abilities Plugins](https://github.com/bohdon/ExtendedGameplayAbilitiesPlugin) - Three plugins for extending and working with Unreal's builtin Gameplay Abilities.
   - [ExtendedGameplayAbilities](https://github.com/bohdon/ExtendedGameplayAbilitiesPlugin#extendedgameplayabilities) - Extends the Gameplay Abilities plugin with some important core features.
   - [ExtendedCommonAbilities](https://github.com/bohdon/ExtendedGameplayAbilitiesPlugin#extendedcommonabilities) - Some additional, more specific components for getting up and running with ability systems quickly.
-  - [GameplayTagInpt](https://github.com/bohdon/ExtendedGameplayAbilitiesPlugin#gameplaytaginput) - A small plugin with configuration data assets for setting up ability system input to be driven by gameplay tags.
+  - [GameplayTagInpt](https://github.com/bohdon/ExtendedGameplayAbilitiesPlugin#gameplaytaginput) - Data assets for configuring ability system input to be driven by gameplay tags.
 - [Game Experiences Plugin](https://github.com/bohdon/GameExperiencesPlugin) - Modular extensions to game modes that leverage the GameFeatures plugin. Based on Lyra experiences.
 - [Utility AI Plugin](https://github.com/bohdon/UtilityAIPlugin) - AI decision making through modular utilities and scoring.
 - [WFC Plugin](https://github.com/bohdon/WFCPlugin) - Procedural content and level generation tools defined through constraints.
