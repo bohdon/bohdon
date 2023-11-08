@@ -7,7 +7,10 @@ I make open source tools for game development.
 ### Unreal Engine Tools
 
 - [Game Items Plugin](https://github.com/bohdon/GameItemsPlugin) - Classes and tools for creating gameplay items, inventories, and equipment.
-- [Extended Gameplay Abilities Plugin](https://github.com/bohdon/ExtendedGameplayAbilitiesPlugin) - Extends the Gameplay Abilities plugin with some important core features.
+- [Extended Gameplay Abilities Plugins](https://github.com/bohdon/ExtendedGameplayAbilitiesPlugin)
+  - ExtendedGameplayAbilities - Extends the Gameplay Abilities plugin with some important core features.
+  - ExtendedCommonAbilities - Some additional, more specific components for working with ability systems.
+  - GameplayTagInpt - A small plugin with configuration data assets for setting up ability system input to be driven by gameplay tags.
 - [Game Experiences Plugin](https://github.com/bohdon/GameExperiencesPlugin) - Modular extensions to game modes that leverage the GameFeatures plugin. Based on Lyra experiences.
 - [Utility AI Plugin](https://github.com/bohdon/UtilityAIPlugin) - AI decision making through modular utilities and scoring.
 - [WFC Plugin](https://github.com/bohdon/WFCPlugin) - Procedural content and level generation tools defined through constraints.
