@@ -2,8 +2,6 @@
 
 I make open source tools for game development.
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/bohdon)
-
 ### Unreal Engine Tools
 
 - [Game Items Plugin](https://github.com/bohdon/GameItemsPlugin) - Classes and tools for creating gameplay items, inventories, and equipment.
@@ -31,3 +29,6 @@ I make open source tools for game development.
 
 - [Workspace](https://github.com/bohdon/workspace) - My personal git, shell, and other prefs for a consistent env across multiple computers. Includes AHK Window Mover.
 - [Dotfiles](https://github.com/bohdon/dotfiles) - A collection of configuration and ignorefiles.
+
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/bohdon)
